@@ -9,5 +9,5 @@ export const environment = {
   pokedexGithub: 'https://github.com/keilermora/pokedex-angular',
   imagesPath: '/assets/images',
   language: 'en',
-  languageId: 10,
+  languageId: 6,
 };
