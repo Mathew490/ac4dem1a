@@ -1,11 +1,1 @@
-{
-  "globalHeaders": {
-    "Content-Security-Policy": "default-src 'self'; connect-src 'self' https://pokeapi.co; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' https://raw.githubusercontent.com data:; font-src 'self'; frame-ancestors 'none';",
-    "X-Frame-Options": "DENY",
-    "Permissions-Policy": "geolocation=(), camera=(), microphone=()",
-    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload"
-  },
-  "navigationFallback": {
-    "rewrite": "/index.html"
-  }
-}
+
