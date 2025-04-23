@@ -1,4 +1,6 @@
 export const environment = {
+  ImágenesPath: '/assets/images'
+  
   production: true,
   pokeApi: 'https://pokeapi.co/api/v2',
   pokeApiGraphQL: 'https://beta.pokeapi.co/graphql/v1beta',
