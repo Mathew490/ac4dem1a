@@ -44,7 +44,7 @@ Este documento describe cómo desplegar una aplicación desde un repositorio de 
 
 1. **Crear Archivo de Configuración**: Regresa al repositorio en GitHub donde se encuentra el archivo `angular.json`. En la misma carpeta, crea un nuevo archivo JSON llamado `staticwebapp.config.json` con el siguiente contenido:
 
-   ```json
+```json
   {
   "globalHeaders": {
     "Content-Security-Policy": "default-src 'self' https://pokeapi.co; connect-src *; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src * data:; font-src 'self';",
@@ -56,7 +56,8 @@ Este documento describe cómo desplegar una aplicación desde un repositorio de 
     "rewrite": "/index.html"
   }
 }
- 2. **Guardar y Hacer Commit: Guarda el archivo y realiza un commit. Azure implementará automáticamente los cambios en el despliegue.
+```
+2. **Guardar y Hacer Commit: Guarda el archivo y realiza un commit. Azure implementará automáticamente los cambios en el despliegue.
     
 ## Paso 6: Verificar la seguridad
 
