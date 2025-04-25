@@ -46,6 +46,4 @@ Ahora tendrás acceso a una **cineteca** (entorno de almacenamiento y servicios)
 - Utilizar bases de datos en la nube
 - ¡Y mucho más!
 
----
 
-> 💡 Recuerda administrar bien tu crédito de estudiante y explorar los servicios que Azure ofrece para aprendizaje y desarrollo.
