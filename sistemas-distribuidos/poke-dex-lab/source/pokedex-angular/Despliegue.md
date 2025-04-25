@@ -69,4 +69,4 @@ Para verificar el nivel de seguridad de nuestra página desplegada, seguiremos e
 **Resultado esperado:**
 El sitio nos mostrará un reporte de seguridad donde podremos observar que nuestra página tiene un nivel de seguridad **A**, que es la calificación más alta posible.
 
-Este resultado indica que nuestra página implementa correctamente todas las cabeceras de seguridad recomendadas.
+
